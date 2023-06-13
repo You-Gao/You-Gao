@@ -1,4 +1,6 @@
-### Hi there 👋
+### erhm no one was supposed to find this
+
+- My Projects: Nothing too special, fun / random / useful things I have made when I needed them
 
 <!--
 **You-Gao/You-Gao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
