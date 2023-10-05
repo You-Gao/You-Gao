@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="your-profile-image-url-here" alt="Your Name" width="150px">
+  <img src="your-profile-image-url-here" alt="You Gao" width="150px">
 </p>
 
 <h1 align="center">👋 Hello, I'm You Gao</h1>
