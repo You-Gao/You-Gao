@@ -21,18 +21,12 @@
   <img src="https://img.shields.io/badge/HTML/CSS/JavaScript-success?style=flat-square&logo=html5">
   <img src="https://img.shields.io/badge/R-success?style=flat-square&logo=r">
   <img src="https://img.shields.io/badge/C-success?style=flat-square&logo=c">
-  <img src="https://img.shields.io/badge/C++-success?style=flat-square&logo=cplusplus">
-  <img src="https://img.shields.io/badge/Assembly-success?style=flat-square&logo=assembly">
 
-  <img src="https://img.shields.io/badge/Apache%20Spark/Hadoop/Airflow-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Apache-blue?style=flat-square">
   <img src="https://img.shields.io/badge/AWS-blue?style=flat-square&logo=amazon-aws">
   <img src="https://img.shields.io/badge/Docker-blue?style=flat-square&logo=docker">
   <img src="https://img.shields.io/badge/Kubernetes-blue?style=flat-square&logo=kubernetes">
   <img src="https://img.shields.io/badge/Git-blue?style=flat-square&logo=git">
-  <img src="https://img.shields.io/badge/ArcGis-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/Tableau-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/Power%20BI-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/Figma-blue?style=flat-square">
   <!-- Add more image URLs for your preferred technologies and tools -->
 </p>
 
@@ -48,8 +42,6 @@
     <img src="project2-thumbnail.png" alt="Project 2" width="200px">
   </a>
   <!-- Add more featured projects with thumbnails -->
-</p> -->
-
 
 <!-- GitHub Stats -->
 <h2 align="center">📈 GitHub Stats</h2>
