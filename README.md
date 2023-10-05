@@ -33,7 +33,6 @@
   <img src="https://img.shields.io/badge/Docker-blue?style=flat-square&logo=docker">
   <img src="https://img.shields.io/badge/Kubernetes-blue?style=flat-square&logo=kubernetes">
   <img src="https://img.shields.io/badge/Git-blue?style=flat-square&logo=git">
-  <img src="https://img.shields.io/badge/TFX-blue?style=flat-square">
   <img src="https://img.shields.io/badge/ArcGis-blue?style=flat-square">
   <img src="https://img.shields.io/badge/Tableau-blue?style=flat-square">
   <img src="https://img.shields.io/badge/Power%20BI-blue?style=flat-square">
