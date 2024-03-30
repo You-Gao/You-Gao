@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">👋 Hello, I'm You Gao</h1>
+<h1 align="center">You Gao</h1>
 
 <!-- Introduction -->
 <p align="center">
