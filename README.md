@@ -1,4 +1,4 @@
-<h3 align="center">hi, i'm you! i like solving problems with my computer.</h1>
+<h3 align="center">hi, i'm you! i like solving problems with my computer.</h3>
 
 
 <p align="center">
